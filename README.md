@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VanshChauhan-1106 
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Android App Development and Web Development
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me at : Linkedin - https://www.linkedin.com/in/vansh-chauhan-741a5b257/ and Email - VanshChauhan1106@gmail.com
 
 <!---
