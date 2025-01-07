@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshchauhangit&label=Profile%20views&color=0e75b6&style=flat" alt="vanshchauhangit" /> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://vansh-chauhan.netlify.app/](https://vansh-chauhan.netlify.app/)
