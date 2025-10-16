@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vansh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 👨‍💻 All of my projects are available at [https://vanshchauhan.vercel.app/](https://vanshchauhan.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://vansh-chauhan.netlify.app/](https://vansh-chauhan.netlify.app/)
-
-- 💬 Ask me about **React, JS, HTML, CSS, MongoDB**
+- 💬 Ask me about **React, JS, HTML, CSS, MongoDB, React Native, Next.js, Node.js**
 
 - 📫 How to reach me **VanshChauhan1106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vansh-chauhan-741a5b257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-chauhan-741a5b257" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh_.chauhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_.chauhan_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vanshchauhan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-chauhan-741a5b257" height="30" width="40" /></a>
+<a href="https://instagram.com/vansh_.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_.chauhan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
